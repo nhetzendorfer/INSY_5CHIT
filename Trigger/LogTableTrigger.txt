@@ -1,0 +1,40 @@
+CREATE OR REPLACE FUNCTION log_sal_column_changes()
+RETURNS TRIGGER AS $$
+DECLARE
+    col TEXT;
+    old_val TEXT;
+    new_val TEXT;
+BEGIN
+    FOR col IN
+        SELECT column_name
+        FROM information_schema.columns
+        WHERE table_name = TG_TABLE_NAME
+          AND column_name <> 'id'
+    LOOP
+        EXECUTE format('SELECT ($1).%I::TEXT', col) INTO old_val USING OLD;
+        EXECUTE format('SELECT ($1).%I::TEXT', col) INTO new_val USING NEW;
+
+        IF old_val IS DISTINCT FROM new_val THEN
+            INSERT INTO "LogTable"("Table", "TimeDate", "column", key, old, new)
+            VALUES (
+                TG_TABLE_NAME,
+                CURRENT_TIME,
+                col,
+                OLD.id,
+                old_val,
+                new_val
+            );
+        END IF;
+    END LOOP;
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER trg_log_sal_changes
+AFTER UPDATE ON sal
+FOR EACH ROW
+WHEN (OLD IS DISTINCT FROM NEW)
+EXECUTE FUNCTION log_sal_column_changes();
+
+
