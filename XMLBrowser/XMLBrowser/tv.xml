@@ -1,0 +1,38 @@
+<?xml-stylesheet type="text/xsl" href="Tv.xsl"?>
+
+<TVSCHEDULE  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="tv.xsd"
+    NAME="Kronenzeitung">
+    <CHANNEL CHAN="ORF1">
+        <BANNER>orf.png</BANNER>
+        <DAY>
+            <DATE></DATE>
+            <PROGRAMSLOT>
+                <TIME>20:15</TIME>
+                <TITLE>Das Schweigen es Lämmers</TITLE>
+                <DESCRIPTION>Sport</DESCRIPTION>
+            </PROGRAMSLOT>
+        </DAY>
+    </CHANNEL>
+    <CHANNEL CHAN="ORF2">
+        <BANNER>orf.png</BANNER>
+        <DAY>
+            <DATE></DATE>
+            <PROGRAMSLOT>
+                <TIME>19:30</TIME>
+                <TITLE>Pain</TITLE>
+                <DESCRIPTION>Psychological</DESCRIPTION>
+            </PROGRAMSLOT>
+            <PROGRAMSLOT>
+                <TIME>19:30</TIME>
+                <TITLE>Herbert die Forsetzung</TITLE>
+                <DESCRIPTION>Psychological</DESCRIPTION>
+            </PROGRAMSLOT>
+            <PROGRAMSLOT>
+                <TIME>19:30</TIME>
+                <TITLE>Herbert</TITLE>
+                <DESCRIPTION>Psychological</DESCRIPTION>
+            </PROGRAMSLOT>
+        </DAY>
+    </CHANNEL>
+</TVSCHEDULE>

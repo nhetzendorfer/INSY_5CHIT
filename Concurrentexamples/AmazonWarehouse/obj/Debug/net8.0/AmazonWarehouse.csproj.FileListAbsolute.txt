@@ -1,0 +1,14 @@
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\bin\Debug\net8.0\AmazonWarehouse.exe
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\bin\Debug\net8.0\AmazonWarehouse.deps.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\bin\Debug\net8.0\AmazonWarehouse.runtimeconfig.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\bin\Debug\net8.0\AmazonWarehouse.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\bin\Debug\net8.0\AmazonWarehouse.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.AssemblyInfoInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.AssemblyInfo.cs
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.csproj.CoreCompileInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\refint\AmazonWarehouse.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\AmazonWarehouse.genruntimeconfig.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\AmazonWarehouse\obj\Debug\net8.0\ref\AmazonWarehouse.dll

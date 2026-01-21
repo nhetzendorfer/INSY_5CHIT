@@ -1,0 +1,14 @@
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\bin\Debug\net8.0\Parallel.exe
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\bin\Debug\net8.0\Parallel.deps.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\bin\Debug\net8.0\Parallel.runtimeconfig.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\bin\Debug\net8.0\Parallel.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\bin\Debug\net8.0\Parallel.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.AssemblyInfoInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.AssemblyInfo.cs
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\refint\Parallel.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\Parallel.genruntimeconfig.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Parallel\obj\Debug\net8.0\ref\Parallel.dll

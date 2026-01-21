@@ -1,0 +1,14 @@
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\bin\Debug\net8.0\Cancellation.exe
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\bin\Debug\net8.0\Cancellation.deps.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\bin\Debug\net8.0\Cancellation.runtimeconfig.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\bin\Debug\net8.0\Cancellation.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\bin\Debug\net8.0\Cancellation.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.AssemblyInfoInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.AssemblyInfo.cs
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.csproj.CoreCompileInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\refint\Cancellation.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\Cancellation.genruntimeconfig.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Cancellation\obj\Debug\net8.0\ref\Cancellation.dll

@@ -1,0 +1,14 @@
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\bin\Debug\net8.0\GetRandomNumber.exe
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\bin\Debug\net8.0\GetRandomNumber.deps.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\bin\Debug\net8.0\GetRandomNumber.runtimeconfig.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\bin\Debug\net8.0\GetRandomNumber.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\bin\Debug\net8.0\GetRandomNumber.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.AssemblyInfoInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.AssemblyInfo.cs
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\refint\GetRandomNumber.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\GetRandomNumber.genruntimeconfig.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\GetRandomNumber\obj\Debug\net8.0\ref\GetRandomNumber.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "X1bRLVrBL7njUXuXaVIQrZBo8l8qae+teyNxEBPYPMI=",
+  "Source": "XMLBrowser",
+  "BasePath": "_content/XMLBrowser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "XMLBrowser\\wwwroot",
+      "Source": "XMLBrowser",
+      "ContentRoot": "C:\\Users\\Nico\\RiderProjects\\XMLBrowser\\XMLBrowser\\wwwroot\\",
+      "BasePath": "_content/XMLBrowser",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nico\\RiderProjects\\XMLBrowser\\XMLBrowser\\wwwroot\\images\\orf.PNG",
+      "SourceId": "XMLBrowser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nico\\RiderProjects\\XMLBrowser\\XMLBrowser\\wwwroot\\",
+      "BasePath": "_content/XMLBrowser",
+      "RelativePath": "images/orf.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\orf.PNG"
+    }
+  ]
+}

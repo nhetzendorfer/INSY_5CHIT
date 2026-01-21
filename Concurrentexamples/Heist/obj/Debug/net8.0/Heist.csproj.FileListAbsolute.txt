@@ -1,0 +1,14 @@
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\bin\Debug\net8.0\Heist.exe
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\bin\Debug\net8.0\Heist.deps.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\bin\Debug\net8.0\Heist.runtimeconfig.json
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\bin\Debug\net8.0\Heist.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\bin\Debug\net8.0\Heist.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.AssemblyInfoInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.AssemblyInfo.cs
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.csproj.CoreCompileInputs.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\refint\Heist.dll
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.pdb
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\Heist.genruntimeconfig.cache
+C:\Users\Nico\RiderProjects\Concurrentexamples\Heist\obj\Debug\net8.0\ref\Heist.dll
