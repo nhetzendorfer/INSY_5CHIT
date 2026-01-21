@@ -1,0 +1,48 @@
+<tree>
+  <file name="Program.cs" />
+  <file name="XMLÜbungConsole.csproj" />
+  <bin>
+    <Debug>
+      <net9.0>
+        <file name="tree.xml" />
+        <file name="XMLÜbungConsole.deps.json" />
+        <file name="XMLÜbungConsole.dll" />
+        <file name="XMLÜbungConsole.exe" />
+        <file name="XMLÜbungConsole.pdb" />
+        <file name="XMLÜbungConsole.runtimeconfig.json" />
+      </net9.0>
+    </Debug>
+  </bin>
+  <obj>
+    <file name="project.assets.json" />
+    <file name="project.nuget.cache" />
+    <file name="project.packagespec.json" />
+    <file name="rider.project.model.nuget.info" />
+    <file name="rider.project.restore.info" />
+    <file name="XMLÜbungConsole.csproj.nuget.dgspec.json" />
+    <file name="XMLÜbungConsole.csproj.nuget.g.props" />
+    <file name="XMLÜbungConsole.csproj.nuget.g.targets" />
+    <Debug>
+      <net9.0>
+        <file name=".NETCoreApp,Version=v9.0.AssemblyAttributes.cs" />
+        <file name="apphost.exe" />
+        <file name="XMLÜbungConsole.AssemblyInfo.cs" />
+        <file name="XMLÜbungConsole.AssemblyInfoInputs.cache" />
+        <file name="XMLÜbungConsole.assets.cache" />
+        <file name="XMLÜbungConsole.csproj.CoreCompileInputs.cache" />
+        <file name="XMLÜbungConsole.csproj.FileListAbsolute.txt" />
+        <file name="XMLÜbungConsole.dll" />
+        <file name="XMLÜbungConsole.GeneratedMSBuildEditorConfig.editorconfig" />
+        <file name="XMLÜbungConsole.genruntimeconfig.cache" />
+        <file name="XMLÜbungConsole.GlobalUsings.g.cs" />
+        <file name="XMLÜbungConsole.pdb" />
+        <ref>
+          <file name="XMLÜbungConsole.dll" />
+        </ref>
+        <refint>
+          <file name="XMLÜbungConsole.dll" />
+        </refint>
+      </net9.0>
+    </Debug>
+  </obj>
+</tree>

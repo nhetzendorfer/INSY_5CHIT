@@ -1,0 +1,14 @@
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\bin\Debug\net9.0\XMLÜbungConsole.exe
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\bin\Debug\net9.0\XMLÜbungConsole.deps.json
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\bin\Debug\net9.0\XMLÜbungConsole.runtimeconfig.json
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\bin\Debug\net9.0\XMLÜbungConsole.dll
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\bin\Debug\net9.0\XMLÜbungConsole.pdb
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.AssemblyInfoInputs.cache
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.AssemblyInfo.cs
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.dll
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\refint\XMLÜbungConsole.dll
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.pdb
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\XMLÜbungConsole.genruntimeconfig.cache
+C:\Users\Nico\RiderProjects\XMLÜbung\XMLÜbungConsole\obj\Debug\net9.0\ref\XMLÜbungConsole.dll
