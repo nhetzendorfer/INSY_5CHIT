@@ -42,8 +42,10 @@
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
+              <xs:element name="COPYRIGHT" minOccurs="0" maxOccurs="1" type="xs:string">
+                
+              </xs:element>
             </xs:sequence>
-
             <xs:attribute name="CHAN" type="xs:string" use="required"/>
           </xs:complexType>
         </xs:element>

@@ -68,8 +68,10 @@
                             <xsl:apply-templates select="PROGRAMSLOT" />
                         </xsl:for-each>
                     </table>
+                    <xsl:value-of select="COPYRIGHT"/>
                 </td>
             </tr>
         </table>
     </xsl:template>
+   
 </xsl:stylesheet>
